@@ -1,1 +1,2 @@
-# zdir_aswin_week6midterm
+# zdir_ashwin_week6midterm
+midified in github
