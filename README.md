@@ -16,7 +16,7 @@ An Code editor and Git.
 
 ## Authors
 1. Zdir - Html page about Bmw
-2. Ashwin - Html page about Benz
+2. Ashwin -  Html page about Benz
 
 ## License
 This project is licensed under the MIT license.
